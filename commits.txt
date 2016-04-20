@@ -1,0 +1,17 @@
+commit 8d481b8d69cff9d101f3483dec54ddc6e3d1b345
+Author: Eliu Ortega <eliu.orteg@gmail.com>
+Date:   Tue Apr 19 16:13:46 2016 -0400
+
+    Agregue algo al css y lo agregue al html
+
+commit c1394c369cb9eb835c54ddad7e6029516bd95c28
+Author: Eliu Ortega <eliu.orteg@gmail.com>
+Date:   Tue Apr 19 16:09:36 2016 -0400
+
+    agregamos la plantilla a la pagina
+
+commit 9c0656624556aac5f91c02af855cf7cb043336b2
+Author: Eliu Ortega <eliu.orteg@gmail.com>
+Date:   Tue Apr 19 16:06:54 2016 -0400
+
+    iniciamos
