@@ -1,3 +1,9 @@
+commit a6e657ff85f3eeae403a5c690ce4ea58b30ef1e8
+Author: Eliu Ortega <eliu.orteg@gmail.com>
+Date:   Wed Apr 20 10:59:00 2016 -0400
+
+    Cree el archivo del curso de horita .txt
+
 commit 8d481b8d69cff9d101f3483dec54ddc6e3d1b345
 Author: Eliu Ortega <eliu.orteg@gmail.com>
 Date:   Tue Apr 19 16:13:46 2016 -0400
